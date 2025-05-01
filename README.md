@@ -52,7 +52,7 @@ To develop an accurate and scalable model for detecting paddy leaf diseases by f
 
 ## 📈 System Architecture Diagram
 
-<img src="assets/system_architecture_diagram.png" alt="System Architecture Diagram" width="100%">
+<img src="system_architecture_diagram.png" alt="System Architecture Diagram" width="100%">
 
 > This diagram presents the complete workflow of the hybrid paddy disease detection model. It shows dual input streams: leaf image data and weather parameters (temperature, humidity, rainfall), which are preprocessed and passed into an EfficientNet-based CNN and a DNN, respectively. Features are fused and classified into 13 disease categories, evaluated using accuracy, F1-score, and a confusion matrix.
 
@@ -63,6 +63,7 @@ To develop an accurate and scalable model for detecting paddy leaf diseases by f
 M.S. in Data Science, University of North Texas (May 2025)  
 📫 Email: [achyuthkumar286@gmail.com](mailto:achyuthkumar286@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/achyuthkumarmiryala](https://www.linkedin.com/in/achyuthkumarmiryala/)
+
 
 
 
